@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DmitryLavrov
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Javescript, React, Node.js stack
+- 💞️ I’m looking to collaborate on Javascript, React, Node.js stack
 - 📫 How to reach me ... My email Dmitrii.Lavrov@gmail.com
 
 <!---
