@@ -4,8 +4,6 @@ Hi 👋 My name is Dmitry
 Frontend Developer
 ------------------
 
-I've been learning to code for 2 years after switching careers. I started with HTML, but really found a passion for fullstack development.
-
 * 🌍  I'm based in Saint-Petersburg
 * 🖥️  See my portfolio at [https://portfolio-dmi.herokuapp.com](https://portfolio-dmi.herokuapp.com)
 * ✉️  You can contact me at [dimlavdev@gmail.com](mailto:dimlavdev@gmail.com)
