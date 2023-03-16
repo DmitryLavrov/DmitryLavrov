@@ -5,11 +5,8 @@ Frontend Developer
 ------------------
 
 * 🌍  I'm based in Saint-Petersburg
-* 🖥️  See my portfolio at [https://portfolio-dmi.herokuapp.com](https://portfolio-dmi.herokuapp.com)
 * ✉️  You can contact me at [dimlavdev@gmail.com](mailto:dimlavdev@gmail.com)
-* 🚀  I'm currently working on [https://coins-dmi.herokuapp.com](https://coins-dmi.herokuapp.com)
-* 🧠  I'm learning React Native and NextJs
-* 🤝  I'm open to collaborating on interesting React Redux projects
+* 🤝  I'm open to collaborating on interesting React Web3 projects
 
 ### Skills
 
